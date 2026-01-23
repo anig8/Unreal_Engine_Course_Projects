@@ -12,7 +12,7 @@ It is shared for portfolio purposes to demonstrate:
 - Prototyping approach
 - Basic AI behavior tree skills
 
-Video demos of the working version are provided in the repository / linked below.
+Video demos of the working versions are provided in the repository / linked below.
 
 https://github.com/user-attachments/assets/a8f53514-ee9c-4964-8a8a-b70c20f2bb8b (BattleBlaster)
 
